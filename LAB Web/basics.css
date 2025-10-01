@@ -1,0 +1,17 @@
+/* Universal Selector */
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+div{
+    background-color: cyan;
+    padding-left: 50px;
+}
+
+/* Editing our paragraph with the id - Special */
+
+#special {
+   border: 2px solid black;
+   margin: 30px;
+}

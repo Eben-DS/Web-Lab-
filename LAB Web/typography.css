@@ -1,0 +1,36 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: darkblue;
+    text-align: center;
+    text-transform: capitalize;
+}
+.description{
+    text-decoration: underline;
+    line-height: 50px;
+    font-size: 1.2em;
+    color: darkslategray;
+    margin: 20px;
+}
+
+.action-link{
+    color: rgb(238, 6, 6);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.skills{
+    margin: 30px;
+    padding: 20%;
+    list-style-type: square;
+    font-size: 1.1em;
+    color: darkgreen;
+    line-height: 40px;
+    
+}

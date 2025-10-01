@@ -1,0 +1,60 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    background-color:rgb(216, 216, 244) ;
+    justify-content:space-evenly;
+}
+
+.dashboard{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+}
+
+.contents{
+    display: flex;
+    flex-direction: row;
+    height: 70%;
+    justify-content: space-evenly;
+    column-gap: 10px;
+}
+
+.nav{
+    padding: 10px;
+    background-color: rgb(28, 5, 112);
+    height: 90%;
+    width: 30%;
+    color:white;
+
+}
+
+
+.widget{
+    background-color: rgb(79, 205, 255);
+    height: 12%;
+    width: 30%;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.widget2{
+    background-color: rgb(128, 198, 242);
+    height: 12%;
+    width: 30%;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: navy;
+    color: white;
+    text-align: center;
+
+    align-items: center;
+    padding: 30px;
+}
+
+
